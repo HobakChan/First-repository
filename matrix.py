@@ -352,3 +352,5 @@ plt.show()
 # ax.set_ylabel('주택 중위가격')
 # ax.set_title('방의 갯수 대 주택중위가격 산점도', fontsize=21)
 # plt.show()
+
+print("깃허브")
